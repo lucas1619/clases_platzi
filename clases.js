@@ -12,7 +12,7 @@ class Persona{
     }
     soyAlto(){ //metodos en js
         return this.altura > 1.8
-    }
+    }//hola
 }
 class Desarrollador extends Persona{ //herencia en js
     constructor(nombre, apellido, altura) {
